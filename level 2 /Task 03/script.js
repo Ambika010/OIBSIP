@@ -1,4 +1,3 @@
-
 function showTime(){
     var date = new Date();
     var h = date.getHours(); 
